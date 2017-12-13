@@ -12,9 +12,9 @@ Only minor stuff
 
 ### Methods
 
-..Expand logarithmic score..
-..Expand variogram score..
-..Rank histogram..
+...Expand logarithmic score..
+...Expand variogram score..
+...Rank histogram
 
 ### Applied in Details
 
